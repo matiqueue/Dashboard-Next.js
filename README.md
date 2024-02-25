@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Dashboard-Next.js
 
 # Dashboard
