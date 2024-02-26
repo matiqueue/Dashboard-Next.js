@@ -26,7 +26,7 @@ function createWindow() {
     height: height,
   });
 
-  mainWindow.loadURL('http://localhost:3004'); // Adres URL serwera Next.js
+  mainWindow.loadURL('http://localhost:3000'); // Adres URL serwera Next.js
 }
 
 // Uruchom serwer Next.js i utwórz okno aplikacji Elektron
